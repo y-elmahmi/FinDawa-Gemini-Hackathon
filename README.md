@@ -84,10 +84,9 @@ Developed by **EL MAHMI YOUSSEF**.
 * *Development Approach:* AI-Assisted Development (Leveraging Gemini for code generation and architecture).
 ---
 
-<p align="center">
-  Made with ❤️ and 🤖 in Morocco 🇲🇦 .   {
-        "isoCode": "MA",
-        "emojiFlag": "🇲🇦",
-        "country": "Morocco"
-    },
-</p>
+<br />
+<div align="center">
+  <a href="https://github.com/y-elmahmi">
+    <img src="https://img.shields.io/badge/Made%20with%20❤️%20in-Morocco-C1272D?style=for-the-badge&logoColor=white" alt="Made in Morocco" />
+  </a>
+</div>
