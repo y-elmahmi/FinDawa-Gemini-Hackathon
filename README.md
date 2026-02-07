@@ -70,40 +70,14 @@ This project harnesses the power of the **Gemini 3 model family** to drive core 
 
 ---
 
-## 📦 Installation & Setup
 
-To run this project locally:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/findawa.git](https://github.com/your-username/findawa.git)
-    cd findawa
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Set up Environment:**
-    Create a `.env` file and add your Gemini API Key:
-    ```env
-    VITE_GEMINI_API_KEY=your_api_key_here
-    ```
-
-4.  **Run the App:**
-    ```bash
-    npm run dev
-    ```
-
----
 
 ## 🏆 Credits & Acknowledgments
 
 **Project Lead & Engineering:**
-* *Engineered by **EL MAHMI YOUSSEF** specifically for the Gemini API Developer Competition. 
+Developed by **EL MAHMI YOUSSEF**.
+* *Academic Supervision:* Faculty of Sciences of Meknes (LPE SIRO).
 * *Development Approach:* AI-Assisted Development (Leveraging Gemini for code generation and architecture).
-
 ---
 
 <p align="center">
