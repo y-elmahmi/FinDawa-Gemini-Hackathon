@@ -48,10 +48,15 @@ By leveraging **Google Gemini 3's multimodal capabilities**, FinDawa does not ju
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots vedio demonstration
 
-> *Add your screenshots here later*
+Watch in This link: https://www.youtube.com/watch?v=QDDT2rk-Ud4
+> <img width="1408" height="768" alt="91165c1af63c426b9e7b91e7841e5e7e" src="https://github.com/user-attachments/assets/a07de933-58b7-4fa5-b18d-5feead324cdf" />
 
+
+## 🎨 UX/UI Design & Prototype
+Before coding, we designed the entire user journey to ensure accessibility for all Moroccan patients.
+👉 **[View Full Figma Prototype](https://findawa-gemini.figma.site/)**
 ---
 
 ## ⚙️ Getting Started
