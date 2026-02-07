@@ -64,7 +64,7 @@ This project harnesses the power of the **Gemini 3 model family** to drive core 
 
 ## 🎥 Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)]([https://www.youtube.com/watch?v=HDP6ZNuzOzg])
+[![Watch the video][https://www.youtube.com/watch?v=HDP6ZNuzOzg])
 
 *(Click the image above to watch the full walkthrough)*
 
