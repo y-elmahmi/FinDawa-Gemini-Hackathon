@@ -48,15 +48,20 @@ By leveraging **Google Gemini 3's multimodal capabilities**, FinDawa does not ju
 
 ---
 
-## 📸 Screenshots vedio demonstration
+## 📸 Video Demonstration
 
-Watch in This link: https://www.youtube.com/watch?v=QDDT2rk-Ud4
-> <img width="1408" height="768" alt="91165c1af63c426b9e7b91e7841e5e7e" src="https://github.com/user-attachments/assets/a07de933-58b7-4fa5-b18d-5feead324cdf" />
+See FinDawa in action (Speed run & Full Features):
 
+[![Watch the video](https://img.youtube.com/vi/QDDT2rk-Ud4/maxresdefault.jpg)](https://www.youtube.com/watch?v=QDDT2rk-Ud4)
+
+> *Click the image above to watch the demo on YouTube.*
+
+---
 
 ## 🎨 UX/UI Design & Prototype
-Before coding, we designed the entire user journey to ensure accessibility for all Moroccan patients.
+Before coding, we designed the entire user journey to ensure accessibility for all Moroccan patients.  
 👉 **[View Full Figma Prototype](https://findawa-gemini.figma.site/)**
+
 ---
 
 ## ⚙️ Getting Started
@@ -90,7 +95,7 @@ To run FinDawa locally on your machine:
 ---
 
 ## 🤝 Contributing
-This project was built for the **Google Gemini API Developer Hackaton**.
+This project was built for the **Google Gemini API Developer Competition**.
 
 ---
 
