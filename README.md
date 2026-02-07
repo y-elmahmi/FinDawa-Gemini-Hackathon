@@ -90,7 +90,7 @@ To run FinDawa locally on your machine:
 ---
 
 ## 🤝 Contributing
-This project was built for the **Google Gemini API Developer Competition**.
+This project was built for the **Google Gemini API Developer Hackaton**.
 
 ---
 
