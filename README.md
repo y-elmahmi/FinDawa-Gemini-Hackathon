@@ -90,3 +90,12 @@ Developed by **EL MAHMI YOUSSEF**.
     <img src="https://img.shields.io/badge/Made%20with%20❤️%20in-Morocco-C1272D?style=for-the-badge&logoColor=white" alt="Made in Morocco" />
   </a>
 </div>
+
+<br />
+<hr />
+<p align="center">
+  Made with ❤️ and 🤖 in <strong>Morocco</strong> 🇲🇦
+</p>
+<p align="center">
+  <sub><i>FinDawa - Empowering Moroccan Healthcare with Gemini 3</i></sub>
+</p>
