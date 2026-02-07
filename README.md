@@ -72,7 +72,7 @@ This project harnesses the power of the **Gemini 3 model family** to drive core 
 
 ## 🎨 UX/UI Design & Prototype
 Before coding, we designed the entire user journey to ensure accessibility for all Moroccan patients.
-👉 **[View Full Figma Prototype](HNA_HOTT_LIEN_FIGMA_DYALK)**
+👉 **[View Full Figma Prototype](https://findawa-gemini.figma.site/)**
 
 
 ---
