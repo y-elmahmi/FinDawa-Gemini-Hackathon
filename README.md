@@ -64,7 +64,7 @@ This project harnesses the power of the **Gemini 3 model family** to drive core 
 
 ## 🎥 Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)]([INSERT DEMO VIDEO LINK HERE])
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)]([https://www.youtube.com/watch?v=HDP6ZNuzOzg])
 
 *(Click the image above to watch the full walkthrough)*
 
@@ -101,10 +101,8 @@ To run this project locally:
 ## 🏆 Credits & Acknowledgments
 
 **Project Lead & Engineering:**
-Engineered by **EL MAHMI YOUSSEF** specifically for the Gemini API Developer Competition. 
-
-**Academic Context:**
-This solution represents a technological leap from its conceptual origins in the *"Innovation Management"* module supervised by **Pr. Kenza Oufaska** (Faculty of Sciences of Meknes, University Moulay Ismail). The technical realization, system design, and AI integration presented here are the result of independent development dedicated to this global competition.
+* *Engineered by **EL MAHMI YOUSSEF** specifically for the Gemini API Developer Competition. 
+* *Development Approach:* AI-Assisted Development (Leveraging Gemini for code generation and architecture).
 
 ---
 
