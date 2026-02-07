@@ -84,22 +84,6 @@ Developed by **EL MAHMI YOUSSEF**.
 * *Development Approach:* AI-Assisted Development (Leveraging Gemini for code generation and architecture).
 ---
 
-<br />
-<div align="center">
-  <a href="https://github.com/y-elmahmi">
-    <img src="https://img.shields.io/badge/Made%20with%20❤️%20in-Morocco-C1272D?style=for-the-badge&logoColor=white" alt="Made in Morocco" />
-  </a>
-</div>
-
-<br />
-<hr />
-<p align="center">
-  Made with ❤️ and 🤖 in <strong>Morocco</strong> 🇲🇦
-</p>
-<p align="center">
-  <sub><i>FinDawa - Empowering Moroccan Healthcare with Gemini 3</i></sub>
-</p>
-
 
 <br />
 <div align="center">
@@ -107,5 +91,14 @@ Developed by **EL MAHMI YOUSSEF**.
     Made with ❤️ and 🤖 in <strong>Morocco</strong> 
     <img src="https://flagcdn.com/40x30/ma.png" alt="Morocco Flag" width="25" style="vertical-align: middle; margin-bottom: 4px;" />
   </p>
-  <sub><i>FinDawa - Empowering Moroccan Healthcare</i></sub>
+  <sub><i>FinDawa - Empowering Moroccan Healthcare with Gemini 3</i></sub>
 </div>
+
+
+<br />
+<div align="center">
+  <a href="https://github.com/y-elmahmi">
+    <img src="https://img.shields.io/badge/Made%20with%20❤️%20in-Morocco-C1272D?style=for-the-badge&logoColor=white" alt="Made in Morocco" />
+  </a>
+</div>
+
