@@ -99,3 +99,13 @@ Developed by **EL MAHMI YOUSSEF**.
 <p align="center">
   <sub><i>FinDawa - Empowering Moroccan Healthcare with Gemini 3</i></sub>
 </p>
+
+
+<br />
+<div align="center">
+  <p>
+    Made with ❤️ and 🤖 in <strong>Morocco</strong> 
+    <img src="https://flagcdn.com/40x30/ma.png" alt="Morocco Flag" width="25" style="vertical-align: middle; margin-bottom: 4px;" />
+  </p>
+  <sub><i>FinDawa - Empowering Moroccan Healthcare</i></sub>
+</div>
