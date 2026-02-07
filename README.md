@@ -71,7 +71,7 @@ To run this project locally:
 
 ## 👨‍💻 Team & Acknowledgment
 Developed by **EL MAHMI YOUSSEF**.
-* *Academic Supervision:* Faculty of Sciences of Meknes (Master SIRO/Big Data).
+* *Academic Supervision:* Faculty of Sciences of Meknes (LPE SIRO).
 * *Development Approach:* AI-Assisted Development (Leveraging Gemini for code generation and architecture).
 
 ---
